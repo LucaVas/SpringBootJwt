@@ -1,4 +1,4 @@
-package dev.lucavassos.springbootjwt;
+package dev.lucavassos.springbootjwt.entities;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;

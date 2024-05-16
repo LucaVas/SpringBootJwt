@@ -1,7 +1,7 @@
 package dev.lucavassos.springbootjwt.controllers;
 
-import dev.lucavassos.springbootjwt.LoginResponse;
-import dev.lucavassos.springbootjwt.User;
+import dev.lucavassos.springbootjwt.domain.LoginResponse;
+import dev.lucavassos.springbootjwt.entities.User;
 import dev.lucavassos.springbootjwt.dtos.UserLoginDto;
 import dev.lucavassos.springbootjwt.dtos.UserSignupDto;
 import dev.lucavassos.springbootjwt.services.AuthenticationService;

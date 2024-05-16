@@ -1,6 +1,6 @@
 package dev.lucavassos.springbootjwt.repositories;
 
-import dev.lucavassos.springbootjwt.User;
+import dev.lucavassos.springbootjwt.entities.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

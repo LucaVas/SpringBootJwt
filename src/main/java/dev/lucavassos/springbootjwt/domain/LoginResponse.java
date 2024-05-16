@@ -1,4 +1,4 @@
-package dev.lucavassos.springbootjwt;
+package dev.lucavassos.springbootjwt.domain;
 
 public record LoginResponse (
         String token,

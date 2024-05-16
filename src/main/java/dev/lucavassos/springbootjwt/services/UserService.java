@@ -1,6 +1,6 @@
 package dev.lucavassos.springbootjwt.services;
 
-import dev.lucavassos.springbootjwt.User;
+import dev.lucavassos.springbootjwt.entities.User;
 import dev.lucavassos.springbootjwt.repositories.UserRepository;
 import org.springframework.stereotype.Service;
 

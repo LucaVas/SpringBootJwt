@@ -1,6 +1,6 @@
 package dev.lucavassos.springbootjwt.controllers;
 
-import dev.lucavassos.springbootjwt.User;
+import dev.lucavassos.springbootjwt.entities.User;
 import dev.lucavassos.springbootjwt.services.UserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
